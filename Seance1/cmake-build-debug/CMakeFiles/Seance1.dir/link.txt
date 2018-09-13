@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Seance1.dir/prog.c.o CMakeFiles/Seance1.dir/miroir.c.o CMakeFiles/Seance1.dir/miroir_2.c.o CMakeFiles/Seance1.dir/moyenne.c.o CMakeFiles/Seance1.dir/VisuVariable.c.o  -o Seance1 
